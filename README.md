@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Chandra Shettigar
 
-- 🔭 I’m currently working on creating Amazon ECS course
-- 🌱 I’m currently learning AWS CDK with TypeScript
+- 🔭 I’m currently building a new course on **Amazon ECS & AWS CDK**
+- 🌱 I'm currently honing my infrastructure coding skills using **AWS CDK with TypeScript**
 - 📫 How to reach me: chandra@devteds.com
 
 ---- 
