@@ -10,7 +10,7 @@ Checkout my Kubernetes course
 
 ### [Kubernetes on AWS EKS - Get Started for Developers & DevOps Engineers](https://www.devteds.com/kubernetes-course-aws-eks-terraform)
 
-Course is also available on [Udemy](https://www.udemy.com/course/kubernetes-on-aws-eks-hands-on-guide-for-devs-devops/?referralCode=7D71BD33FF9E1FABCA32)
+The course is also available on [Udemy](https://www.udemy.com/course/kubernetes-on-aws-eks-hands-on-guide-for-devs-devops/?referralCode=7D71BD33FF9E1FABCA32)
 
 ---- 
 
@@ -20,6 +20,7 @@ Course is also available on [Udemy](https://www.udemy.com/course/kubernetes-on-a
 - [Create Production-ready Container Image + Docker Multi-Stage Build](https://dev.to/shettigarc/create-production-ready-container-image-docker-multi-stage-build-3j0f)
 - [The Flipside of Microservices: Knowing When to Embrace or Pass](https://www.devteds.com/microservices-when-to-embrace-or-pass/)
 - [Create React.js App using Docker](https://www.devteds.com/create-react-app-with-docker/)
+- ["Kubernetes vs AWS ECS" for Application Developers](https://medium.com/@shettigarc/kubernetes-vs-aws-ecs-for-application-developers-3afb10d1f050)
 - Find more on [devteds.com](https://www.devteds.com/blog/)
 
 
