@@ -26,6 +26,7 @@ The course is also available on [Udemy](https://www.udemy.com/course/kubernetes-
 
 ### Short Courses
 
+- [DevOps Local Setup: Docker & Dev-Containers in VSCode](https://www.devteds.com/devops-local-setup-with-docker-and-devcontainers-vscode/)
 - [Building Production-Ready Docker Images With Multi-Stage Builds](https://www.devteds.com/multi-stage-docker-build-tutorial/)
 - [Docker On Amazon ECS Using CloudFormation](https://www.devteds.com/docker-on-amazon-ecs-using-cloudformation/)
 - [MySQL and PostgreSQL with Docker in Development](https://www.devteds.com/mysql-and-postgresql-with-docker-in-development/)
