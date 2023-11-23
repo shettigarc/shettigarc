@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently building a new course on **Amazon ECS & AWS CDK**
 - 🌱 I'm currently honing my infrastructure coding skills using **AWS CDK with TypeScript & Python**
-- I create premium and free courses and write stuff on AWS Cloud, DevOps, and Software Architecture
+- 👨‍💻 I create premium and free courses and write stuff on AWS Cloud, DevOps, and Software Architecture
 - 📫 How to reach me: chandra@devteds.com
 
 ---- 
