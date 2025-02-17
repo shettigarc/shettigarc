@@ -8,7 +8,11 @@
   - [Mentorship - DevOps, Cloud & Platform Engineering](https://topmate.io/thedevsecops/1161575?coupon_code=LETSCHAT)
   - [Discovery Call](https://topmate.io/thedevsecops?coupon_code=LETSCHAT)
 
----- 
+----
+
+Check out [Devteds Projects](https://github.com/devteds) for my code contributions. Those are primarily related to my learning content on Youtube and Udemy.
+
+----
 
 Checkout my Kubernetes course
 
