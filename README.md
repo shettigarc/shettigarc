@@ -12,7 +12,7 @@
 
 Checkout my Kubernetes course
 
-### [Kubernetes on AWS EKS - Get Started for Developers & DevOps Engineers](https://www.devteds.com/kubernetes-course-aws-eks-terraform)
+### [Kubernetes on AWS EKS - Get Started for Developers & DevOps Engineers](https://courses.devteds.com/courses/1-kubernetes-on-aws-eks-hands-on-get-started-for-dev-devops)
 
 The course is also available on [Udemy](https://www.udemy.com/course/kubernetes-on-aws-eks-hands-on-guide-for-devs-devops/?referralCode=7D71BD33FF9E1FABCA32)
 
