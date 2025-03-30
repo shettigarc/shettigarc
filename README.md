@@ -1,8 +1,7 @@
 ### Hi there 👋 I'm Chandra Shettigar
 
 - 🔭 I’m currently building a new course on **Amazon ECS & AWS CDK**
-- 🌱 I'm currently honing my infrastructure coding skills using **AWS CDK with TypeScript & Python**
-- 👨‍💻 I create premium and free courses and write stuff on AWS Cloud, DevOps, and Software Architecture
+- 👨‍💻 I create premium and free courses and write stuff on AWS Cloud, DevOps, and Software Development
 - 📫 How to reach me: chandra@devteds.com or **Let's Chat 1-1**:
   - [Tech Strategy & Brainstorming](https://topmate.io/thedevsecops/1161573?coupon_code=LETSCHAT)
   - [Mentorship - DevOps, Cloud & Platform Engineering](https://topmate.io/thedevsecops/1161575?coupon_code=LETSCHAT)
