@@ -7,13 +7,21 @@
   - [Mentorship - DevOps, Cloud & Platform Engineering](https://topmate.io/thedevsecops/1161575?coupon_code=LETSCHAT)
   - [Discovery Call](https://topmate.io/thedevsecops?coupon_code=LETSCHAT)
 
+---- 
+
+### More Recent Repositories
+
+- [devcontainers-for-developers-vscode](https://github.com/devteds/devcontainers-for-developers-rails-multi-container-local-setup)
+- [devops-local-setup-docker-devcontainer-vscode](https://github.com/devteds/devops-local-setup-docker-devcontainer-vscode)
+- [multi-stage-docker-build](https://github.com/devteds/multi-stage-docker-build)
+- [cloudformation-docker-ecs](https://github.com/devteds/e9-cloudformation-docker-ecs)
+- [demo-apps-on-k8s](https://github.com/devteds/demo-apps-on-k8s)
+- [demo-app-bookstore](https://github.com/devteds/demo-app-bookstore)
+- [rails-on-docker](https://github.com/devteds/devcontainers-for-developers-rails-multi-container-local-setup)
+
 ----
 
-Check out [Devteds Projects](https://github.com/devteds) for my code contributions. Those are primarily related to my learning content on Youtube and Udemy.
-
-----
-
-Checkout my Kubernetes course
+Check out my Kubernetes course
 
 ### [Kubernetes on AWS EKS - Get Started for Developers & DevOps Engineers](https://courses.devteds.com/courses/1-kubernetes-on-aws-eks-hands-on-get-started-for-dev-devops)
 
