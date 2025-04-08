@@ -1,15 +1,22 @@
 ### Hi there 👋 I'm Chandra Shettigar
 
-- 🔭 I’m currently building a new course on **Amazon ECS & AWS CDK**
-- 👨‍💻 I create premium and free courses and write stuff on AWS Cloud, DevOps, and Software Development
-- 📫 How to reach me: chandra@devteds.com or **Let's Chat 1-1**:
-  - [Tech Strategy & Brainstorming](https://topmate.io/thedevsecops/1161573?coupon_code=LETSCHAT)
-  - [Mentorship - DevOps, Cloud & Platform Engineering](https://topmate.io/thedevsecops/1161575?coupon_code=LETSCHAT)
-  - [Discovery Call](https://topmate.io/thedevsecops?coupon_code=LETSCHAT)
+**Platform Engineer | Ruby on Rails Specialist | AWS & DevOps Educator**  
+
+I'm passionate about building scalable platforms, developer-friendly infrastructure, and elegant web applications.
+
+- 📘 I also create high-quality courses and content on **AWS Cloud, DevOps, and Software Engineering**.
+- 🎥 Check out my **[Kubernetes course](https://courses.devteds.com/courses/1-kubernetes-on-aws-eks-hands-on-get-started-for-dev-devops)** and **free short videos on [YouTube](https://www.youtube.com/c/ChandraShettigar)**.  
+- 🔨 Currently building a new course on **Amazon ECS & AWS CDK**.
+- 🧑‍💻 Open to roles in **Platform Engineering** or **Senior/Staff Ruby on Rails** development.
+- 📫 Reach out: **[LinkedIn](https://www.linkedin.com/in/shettigarc/)** | **chandra@devteds.com** | [**1:1 sessions**](https://topmate.io/thedevsecops?coupon_code=LETSCHAT)
 
 ---- 
 
-### More Recent Repositories
+### 🔍 Featured Repositories (from Courses & Real-World Demos)
+
+Most of my open-source contributions are shared through **[Devteds on GitHub](https://github.com/devteds)** — a space I maintain to publish hands-on projects, course code, and real-world examples.
+
+These repos highlight my work across **DevContainers, Docker, Kubernetes, Rails on AWS, and Infrastructure as Code**:
 
 - [devcontainers-for-developers-vscode](https://github.com/devteds/devcontainers-for-developers-rails-multi-container-local-setup)
 - [devops-local-setup-docker-devcontainer-vscode](https://github.com/devteds/devops-local-setup-docker-devcontainer-vscode)
@@ -18,14 +25,6 @@
 - [demo-apps-on-k8s](https://github.com/devteds/demo-apps-on-k8s)
 - [demo-app-bookstore](https://github.com/devteds/demo-app-bookstore)
 - [rails-on-docker](https://github.com/devteds/devcontainers-for-developers-rails-multi-container-local-setup)
-
-----
-
-Check out my Kubernetes course
-
-### [Kubernetes on AWS EKS - Get Started for Developers & DevOps Engineers](https://courses.devteds.com/courses/1-kubernetes-on-aws-eks-hands-on-get-started-for-dev-devops)
-
-The course is also available on [Udemy](https://www.udemy.com/course/kubernetes-on-aws-eks-hands-on-guide-for-devs-devops/?referralCode=7D71BD33FF9E1FABCA32)
 
 ---- 
 
@@ -47,4 +46,13 @@ The course is also available on [Udemy](https://www.udemy.com/course/kubernetes-
 - [Docker On Amazon ECS Using CloudFormation](https://www.devteds.com/docker-on-amazon-ecs-using-cloudformation/)
 - [MySQL and PostgreSQL with Docker in Development](https://www.devteds.com/mysql-and-postgresql-with-docker-in-development/)
 - Find more on [devteds.com](https://www.devteds.com/blog/)
+
+
+----
+
+Check out my Kubernetes course
+
+### [Kubernetes on AWS EKS - Get Started for Developers & DevOps Engineers](https://courses.devteds.com/courses/1-kubernetes-on-aws-eks-hands-on-get-started-for-dev-devops)
+
+The course is also available on [Udemy](https://www.udemy.com/course/kubernetes-on-aws-eks-hands-on-guide-for-devs-devops/?referralCode=7D71BD33FF9E1FABCA32)
 
