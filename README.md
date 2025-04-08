@@ -41,6 +41,7 @@ These repos highlight my work across **DevContainers, Docker, Kubernetes, Rails 
 
 ### Short Courses
 
+- [Dockerized DEV Environment with DevContainers](https://www.devteds.com/devcontainers-for-developers-multi-container-local-dev-setup/)
 - [DevOps Local Setup: Docker & Dev-Containers in VSCode](https://www.devteds.com/devops-local-setup-with-docker-and-devcontainers-vscode/)
 - [Building Production-Ready Docker Images With Multi-Stage Builds](https://www.devteds.com/multi-stage-docker-build-tutorial/)
 - [Docker On Amazon ECS Using CloudFormation](https://www.devteds.com/docker-on-amazon-ecs-using-cloudformation/)
