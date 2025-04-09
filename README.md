@@ -1,8 +1,8 @@
 ### Hi there 👋 I'm Chandra Shettigar
 
-**Platform Engineer | Ruby on Rails Specialist | AWS & DevOps Educator**  
+**Platform Engineer | Ruby on Rails Specialist | AI-Powered Product Builder | AWS & DevOps Educator**  
 
-I'm passionate about building scalable platforms, developer-friendly infrastructure, and elegant web applications.
+I'm passionate about building scalable platforms, developer-friendly infrastructure, elegant web applications, and AI integrations.
 
 - 📘 I also create high-quality courses and content on **AWS Cloud, DevOps, and Software Engineering**.
 - 🎥 Check out my **[Kubernetes course](https://courses.devteds.com/courses/1-kubernetes-on-aws-eks-hands-on-get-started-for-dev-devops)** and **free short videos on [YouTube](https://www.youtube.com/c/ChandraShettigar)**.  
